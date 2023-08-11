@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Doc" pattern="gitignore||src:documin.Documento.*||src:documin.Elemento.*||src:documin.Visao.*" />
+</component>
